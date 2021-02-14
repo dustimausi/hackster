@@ -1,6 +1,9 @@
 # hackster
 Hackintosh OpenCore EFI for Lenovo ThinkCentre M93p Tiny i7
 
+Thias is not an install guide. Just want to share my efi which worked for me. Full isntall from Catalina USB install Stick.
+Create the USB Install stick with Console and copy the EFI to the EFI Drive of the Stick.
+
 Model              Lenovo ThinkCentre M93p Tiny
 Mainboard          Intel Q87
 CPU                Intel Core i7-4765T
